@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81478958a271b574b8530152afa58ad3, type: 3}
+  m_Name: CommonUseThemaData
+  m_EditorClassIdentifier: 
+  road:
+  - {fileID: -8859073414031959842, guid: 3f954a44f52b50d40bea7fb81cffc8ec, type: 3}
+  - {fileID: 6642556032865979591, guid: efc3d7b22e23c7f4c9378b4781186b26, type: 3}
+  environment:
+  - {fileID: -5679698422267134037, guid: 00d67c03dfecd8c4bbbd02ef1544d22f, type: 3}
+  - {fileID: -8197480395674736551, guid: ac9ebce9c69b7fb47ac5ff374469bcc6, type: 3}
+  - {fileID: -7143924925382567740, guid: d66e1021c24c0fb459edcf53faca4ba2, type: 3}
+  - {fileID: 4287159442125260074, guid: f46f8bdadf40abd4686f6dd0e89579d8, type: 3}
+  repeater: {fileID: 3429869322508306676, guid: f220e908ae5880f41a5706b4a13832b5, type: 3}
+  coinObject: {fileID: 6704807893686249292, guid: c5043e3fb7c21684dbb122308cdfd45a, type: 3}

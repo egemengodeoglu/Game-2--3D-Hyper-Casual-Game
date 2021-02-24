@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e3d31413fd51cd4ab2d47be72283663, type: 3}
+  m_Name: StreetThemaData
+  m_EditorClassIdentifier: 
+  road: []
+  environment: []
+  boats: []
+  buildings:
+  - {fileID: 2708610030864666891, guid: 12bdded95840fad4689d97e8ddf3c189, type: 3}
+  - {fileID: 7418363732359046473, guid: 89f39185fa8e41748b1cb74f0e10df97, type: 3}
+  - {fileID: 2966272006804982297, guid: ceb3f719f87c37541943e34fe9f7aa53, type: 3}
+  - {fileID: 7902447641857947066, guid: 7874ecdfefc38b74b8cedda970fe3053, type: 3}
+  - {fileID: 6319736900484765069, guid: d94b1455261bf36499fd3a68ee809dbd, type: 3}
+  - {fileID: 5314198551694113106, guid: 640a8d84e996b99409dbde06f8decf5f, type: 3}
+  - {fileID: 2073381948040251463, guid: 48b2e14ed7a5c574ea5501ffd77252fe, type: 3}
+  - {fileID: 6480901819176284298, guid: c66a0a6168ab27b47a23844c129c58a5, type: 3}
+  - {fileID: 6311944814496679141, guid: 5c8822e82f78fa142907451412011cec, type: 3}
+  - {fileID: 1000122858839158388, guid: e50c6050d69e15741a551140091deb32, type: 3}
+  - {fileID: 2346084148028054559, guid: f9993fb4fa15a2449b73b4ef7f6170c3, type: 3}
+  - {fileID: 7196951095952871257, guid: 14931f9ac81c32e46bc4d1961a9124a7, type: 3}
+  - {fileID: 2827274041696982909, guid: 10b60ead56078fb44b6d3b80c79f7f58, type: 3}
+  - {fileID: 5738536329057989521, guid: 929f954625fedf84fad9759850b47fc0, type: 3}
+  - {fileID: 7929226396594044762, guid: f2d96dfc62a099c43a3c8fb6376f25be, type: 3}
+  - {fileID: 3071997956746919240, guid: 0f074e4ea73970b4db519f151919c02b, type: 3}
+  - {fileID: 8681146269201677866, guid: db4b00bc9eeae6b4e8cb7f6a1564a17b, type: 3}
+  - {fileID: 6223405339645538993, guid: 97fa01ceb4558564abd436a9313ebd86, type: 3}
+  - {fileID: 4174705381593496115, guid: 5eddbbf0b88bd744298375129bd100b1, type: 3}
+  - {fileID: 4054360249118359058, guid: 4d017934d3413a849a7dbddb8b4f75f7, type: 3}
+  - {fileID: 1995386734041748138, guid: 07f84446dfc6e3d46bc30b85897aa8e8, type: 3}
+  - {fileID: 1047067420317390906, guid: 57bec4ecf1f7b2642aad2976190208b1, type: 3}
+  - {fileID: 335549571538153515, guid: aaa3a1b77351b294fb8d18858a9ffc3a, type: 3}
+  - {fileID: 4384035202596957294, guid: a0832649ca4b0dc478ecec9ce1cc6609, type: 3}
+  - {fileID: 8473479635796770023, guid: 4148d6490d71fdd4da72cd6f995a20f1, type: 3}
+  - {fileID: 3255751716146097368, guid: 5393f6de30beebf499040b6c5fcee888, type: 3}
+  - {fileID: 8691769559093520264, guid: 98377a06e6043d348ba34c042fc19173, type: 3}
+  - {fileID: 2348892023514144443, guid: 35749d9b2f3fed04da0fd0321cd16def, type: 3}
+  - {fileID: 7705952821382823102, guid: 7f0bc21c2bb5c1c48b77a2ff501e778a, type: 3}
+  - {fileID: 7484525698449704968, guid: 289c31e7111464544bdcb2586fb86ee3, type: 3}

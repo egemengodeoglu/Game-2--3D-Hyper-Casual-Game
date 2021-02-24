@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e3d31413fd51cd4ab2d47be72283663, type: 3}
+  m_Name: BeachThemaData
+  m_EditorClassIdentifier: 
+  road:
+  - {fileID: 7340593442713616057, guid: 7a18e0d19ab67ef40b75a1143c0552aa, type: 3}
+  - {fileID: -6572554975969161945, guid: 18fb7a1704e6edb4ca6567815656b18c, type: 3}
+  - {fileID: 6642556032865979591, guid: efc3d7b22e23c7f4c9378b4781186b26, type: 3}
+  - {fileID: 2157327677518394808, guid: 5ce1248c738cb9243a260775785d22f8, type: 3}
+  environment:
+  - {fileID: -6606572469455315301, guid: 3ad0289207f605141b1fc4658ce8cf44, type: 3}
+  - {fileID: 6556620385137093831, guid: 07afc3b733310074ebc4abefd7398a3e, type: 3}
+  - {fileID: 6518925437272661062, guid: 0a6d9badf33f51f4eb5fd117f1a2a2bf, type: 3}
+  - {fileID: 1186165402207916248, guid: de5f5c008c52d19428e3c22f98377734, type: 3}
+  - {fileID: -4476161359060564616, guid: f3df4d07882648140b5560f8087a30b0, type: 3}
+  - {fileID: -8449524551245845943, guid: 278f47b52e23c6c47bee106f1360ddaa, type: 3}
+  - {fileID: 636401908362846116, guid: b47f392e5ebef3043aa24424c677ef46, type: 3}
+  boats:
+  - {fileID: 2757173026220634998, guid: e3fd10612f2719e499d74b99ca9d3d61, type: 3}
+  - {fileID: 7897265641023431587, guid: e97de1bcdf8cd1e4bbb84b47cda39313, type: 3}
+  - {fileID: 2939313896275155414, guid: 49134c558b698e74d801c582f90dac10, type: 3}
+  buildings: []
